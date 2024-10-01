@@ -40,12 +40,12 @@ The Online Fraud Analytics project aims to provide a comprehensive analysis of f
 - Jupyter Notebook
 
 ## Visualizations
+#### To View the Visualizations download the output plotly zip file
 The project includes various visualizations to analyze transaction data, including:
 - Distribution of transaction types involved in fraud.
 - Boxplots comparing requested and settlement amounts by transaction status.
 - Time series analysis of fraud transactions over months.
 - Heatmaps of correlations between numeric variables.
-
 ## Analysis
 The analysis provides insights into:
 
